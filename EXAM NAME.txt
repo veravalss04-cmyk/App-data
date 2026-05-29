@@ -16,32 +16,32 @@
   ],
   [
     "ELECTRICAL ASISTANT",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/TYPE%20OF%20COURSES%20ELECTRICAL%20ASISTANT.json",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/electrical%20asistant%20typecourse.txt",
     "1oyQI5tT3-NfNIgrl_uM_5F_qf2_d3OzIN7kHlhILX_Y",
-    1,
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/FREELPECTUREELECTRICALASISTANT.json",
+    "1",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/eafreelecture.txt",
     "1C4UvllhJNlNkVz1LKwatYOQXW4yTzrRjphFqh3KSgp0",
-    1,
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/free%20live%20test.json",
+    "1",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/eafreetest.txt",
     "1I5Y90vBOa5GeRpjEkSvOk6bM_9AJlUrXPvYVtCRsqx0",
-    1,
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/booksection.json",
+    "1",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/bookselling%20data.txt",
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
-    1
+    "1"
   ],
   [
     "ELECTRICAL ENGINEERING EXAM",
     "https://script.google.com/macros/s/AKfycbwUdAz-tHg1nh06zbU9Vq1EHfP0RacVqUp0Mvw1K5wCKqABlHsGsXx5-nC_fNEJrlIJJQ/exec",
     "1oyQI5tT3-NfNIgrl_uM_5F_qf2_d3OzIN7kHlhILX_Y",
-    2,
+    "2",
     "https://script.google.com/macros/s/AKfycbzDFfNuqlYEpUIJsTx7cnpyk659i5rf0hXco05WGRUBWQOxZRo2ZsMB0_jiCT1GZyKQnA/exec",
     "1C4UvllhJNlNkVz1LKwatYOQXW4yTzrRjphFqh3KSgp0",
-    2,
+    "2",
     "https://script.google.com/macros/s/AKfycbxFG6Njjt4b0E_LtLD7yzgGDHSwaRXHtV9VUhuw2XHbFW8lC9Wfygal6WjNlixBb6HSIg/exec",
     "1I5Y90vBOa5GeRpjEkSvOk6bM_9AJlUrXPvYVtCRsqx0",
-    1,
+    "1",
     "https://script.google.com/macros/s/AKfycbylwEb45_oWGUL3mmLJZenF3iurQkEPUQtRfwgE9ftrpldNivcvlQoD7SM_J7_MEQ/exec",
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
-    1
+    "1"
   ]
 ]
