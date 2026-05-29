@@ -70,7 +70,10 @@
     "SHEETNUMBERTEST",
     "SHEETNUMBERBOOK",
     "VALIDITYCOURSE",
-    "DISCOUNT"
+    "DISCOUNT",
+    "IMPPDFURL",
+    "LIVECLASSURL",
+    "lecture url"
   ],
   [
     "SM14",
@@ -143,7 +146,10 @@
     "1",
     "2",
     "0.041 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM1",
@@ -216,7 +222,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM2",
@@ -289,7 +298,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM3",
@@ -362,7 +374,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM4",
@@ -435,7 +450,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM5",
@@ -508,7 +526,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM6",
@@ -581,7 +602,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM7",
@@ -654,7 +678,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM8",
@@ -727,7 +754,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM9",
@@ -800,7 +830,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM10",
@@ -873,7 +906,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM11",
@@ -946,7 +982,10 @@
     "1",
     "2",
     "3 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM12",
@@ -1019,7 +1058,10 @@
     "1",
     "2",
     "0.16 Year",
-    "50"
+    "50",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ],
   [
     "SM13",
@@ -1092,6 +1134,9 @@
     "1",
     "2",
     "2 Year",
-    "30"
+    "30",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt"
   ]
 ]
