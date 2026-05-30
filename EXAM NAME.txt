@@ -12,7 +12,9 @@
     "LIVETESTSHEETNUMBER",
     "BOOKSELLURL",
     "BOOKSELLID",
-    "BOOKSELLNUMBER"
+    "BOOKSELLNUMBER",
+    "ADS PHOTO",
+    "ADS VIDEO"
   ],
   [
     "ELECTRICAL ASISTANT",
@@ -27,7 +29,9 @@
     "1",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/bookselling%20data.txt",
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
-    "1"
+    "1",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL ASISTANT STUDENTS.txt",
+    "https://drive.google.com/uc?export=download&id=1zm-t9Xi4Y_YMB-IMvDlci-r13RloGBOy"
   ],
   [
     "ELECTRICAL ENGINEERING EXAM",
@@ -42,6 +46,8 @@
     "1",
     "https://script.google.com/macros/s/AKfycbylwEb45_oWGUL3mmLJZenF3iurQkEPUQtRfwgE9ftrpldNivcvlQoD7SM_J7_MEQ/exec",
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
-    "1"
+    "1",
+    "",
+    ""
   ]
 ]
