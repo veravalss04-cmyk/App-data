@@ -23,7 +23,7 @@
     "120",
     "EA VS CLASSES",
     "FREE LIVE CLASSES",
-    "https://www.youtube.com/live/OAJZsL10rwo?si=HxcbAFukWl3aCSyz",
+    "https://www.youtube.com/live/g-Lrn-4u1h0?si=b9bkoIYxqNh8_HFN",
     "https://drive.google.com/uc?export=download&id=1xyZnNBM-eO06YazWTgBf6pGbRrj7AIjk",
     "https://drive.google.com/uc?export=download&id=1E0IYD9kudp3gg5_Om8U8r1RcT9lY-fLL"
   ],
