@@ -1,6 +1,6 @@
 [
   [
-    "COURSEINDEX",
+    "      ",
     "COURSEIMAGE",
     "COURSETITLE",
     "COURSESUBTITLE",
@@ -84,7 +84,7 @@
     "LIVE",
     "2026-01-02",
     "Dravid Sir",
-    "2000/-",
+    "1/-",
     "5000/-",
     "Gohel Mam",
     "6353141147",
@@ -145,7 +145,7 @@
     "1AyhMy2iXFaoa9hnDcSCpCJyfaehb-4Wzgly4Q9MaALQ",
     "1",
     "2",
-    "0.041 Year",
+    "1 Year",
     "50",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
