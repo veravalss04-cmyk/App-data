@@ -84,7 +84,7 @@
     "LIVE",
     "2026-06-01",
     "DRAVID SIR - KETAN SIR - SAGAR SIR",
-    "2500/-",
+    "1/-",
     "4000/-",
     "Gohel Mam",
     "6353141147",
