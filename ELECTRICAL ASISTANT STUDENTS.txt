@@ -3,18 +3,9 @@
     "IMAGE URLS "
   ],
   [
-    "https://drive.google.com/uc?export=download&id=1Ak8MYo-ftkyIDz2W49l8qG3euiEgZS_o"
+    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/jFQ4Z3ihioY3PX8rb6Ko.png"
   ],
   [
-    "https://drive.google.com/uc?export=download&id=1Ak8MYo-ftkyIDz2W49l8qG3euiEgZS_o"
-  ],
-  [
-    "https://drive.google.com/uc?export=download&id=1Ak8MYo-ftkyIDz2W49l8qG3euiEgZS_o"
-  ],
-  [
-    "https://drive.google.com/uc?export=download&id=1Ak8MYo-ftkyIDz2W49l8qG3euiEgZS_o"
-  ],
-  [
-    "https://drive.google.com/uc?export=download&id=1Ak8MYo-ftkyIDz2W49l8qG3euiEgZS_o"
+    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/R98xPac8DclKTjlYVNiR.jpeg"
   ]
 ]
