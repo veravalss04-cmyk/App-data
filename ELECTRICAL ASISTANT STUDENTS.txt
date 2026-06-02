@@ -3,9 +3,18 @@
     "IMAGE URLS "
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/jFQ4Z3ihioY3PX8rb6Ko.png"
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/file_00000000e7c872098adf6c89cc815815(1).png"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/R98xPac8DclKTjlYVNiR.jpeg"
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/file_00000000e7c872098adf6c89cc815815(1).png"
+  ],
+  [
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/file_000000008a607209a28070885451c9ee(1).png"
+  ],
+  [
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/file_00000000444c72099cc2f06a006dfb87(1).png"
+  ],
+  [
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/20260531_180323.jpg%20(1)(1).jpeg"
   ]
 ]
