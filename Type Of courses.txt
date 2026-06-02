@@ -147,7 +147,7 @@
     "2",
     "1 Year",
     "40%",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE IMP PDF SECTION.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE LIVE CLASSES PAID.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ADITIONAL ASISTANT SUBJECT COURSE.txt"
   ]
