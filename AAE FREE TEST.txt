@@ -36,10 +36,10 @@
     "120",
     "120",
     "ugvcl%20model%20test%202.txt",
-    "GPSSB PAPER 2",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "single phase induction motor 2",
+    "1-ફેસ ઇન્ડકશન મોટર",
     "DRAVID SIR",
-    "PGVCL 2018.txt"
+    "single phase induction motor 2.txt"
   ],
   [
     "",
@@ -50,10 +50,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 3",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "ટ્રાન્સફોર્મરના ભાગો અને તેનું કાર્ય Buchholz realay ટ્રાન્સફોર્મર IMP POINT",
+    "૧-ફેસ ટ્રાન્સફોર્મર",
     "DRAVID SIR",
-    "PGVCL 2020.txt"
+    "ટ્રાન્સફોર્મરના ભાગો અને તેનું કાર્ય Buchholz realay ટ્રાન્સફોર્મર IMP POINT.txt"
   ],
   [
     "",
@@ -64,10 +64,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 4",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "ટ્રાન્સફોર્મર નું ઓઈલ ટ્રાન્સફોર્મર એલ્યુમિનિયમ અને કોપર નો ઉપયોગ CRGO CORE",
+    "૧-ફેસ ટ્રાન્સફોર્મર",
     "DRAVID SIR",
-    "PGVCL PAPER 2024.txt"
+    "ટ્રાન્સફોર્મર નું ઓઈલ ટ્રાન્સફોર્મર એલ્યુમિનિયમ અને કોપર નો ઉપયોગ CRGO CORE .txt"
   ],
   [
     "",
@@ -78,10 +78,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 5",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "ટ્રાન્સફોમરનું કાર્ય કર્યા ઉપર ના દાખલા",
+    "૧-ફેસ ટ્રાન્સફોર્મર",
     "DRAVID SIR",
-    "PGVCL PAPER 2025.txt"
+    "ટ્રાન્સફોમરનું કાર્ય કર્યા ઉપર ના દાખલા .txt"
   ],
   [
     "",
@@ -92,10 +92,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 6",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "three phase ac circuit",
+    "બસિક એસી સર્કીટ",
     "DRAVID SIR",
-    "MGVCL 2017.txt"
+    "3%20Phase%20Ac%20Circuit.txt"
   ],
   [
     "",
@@ -106,10 +106,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 7",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "test 1",
+    "બસિક એસી સર્કીટ",
     "DRAVID SIR",
-    "MGVCL PAPER 2025.txt"
+    "Ac%20Circuit%203.txt"
   ],
   [
     "",
@@ -120,10 +120,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 8",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "PHASE CONTROLED RECTIFER",
+    "POWER ELECTRONICS",
     "DRAVID SIR",
-    "DGVCL 2018.txt"
+    "PHASE CONTROLED RECTIFER 4.txt"
   ],
   [
     "",
@@ -134,10 +134,10 @@
     "",
     "",
     "",
-    "GPSSB PAPER 9",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "test 3 transmission",
+    "એ.સી ટ્રાન્સમિશન અને ડીસી ટ્રાન્સમિશન",
     "DRAVID SIR",
-    "DGVCL 2019.txt"
+    "test 3 transmission.txt"
   ],
   [
     "",
@@ -148,9 +148,93 @@
     "",
     "",
     "",
-    "GPSSB PAPER 10",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "MEASUREMENT TEST 4 AAE",
+    "ELECTRICAL MEASUREMENT",
     "DRAVID SIR",
-    "GETCO 2023 PAPER.txt"
+    "MEASUREMENT TEST 4 AAE.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "CRO AND BRIDGES 2",
+    "ELECTRICAL MEASUREMENT",
+    "DRAVID SIR",
+    "CRO AND BRIDGES 2.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Solar PV and Concentrated solar power plant 2",
+    "RENEABLE ENERGY POWER PLANT",
+    "DRAVID SIR",
+    "Solar PV and Concentrated solar power plant 2.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Solar PV and Concentrated solar power plant 3",
+    "RENEABLE ENERGY POWER PLANT",
+    "DRAVID SIR",
+    "Solar PV and Concentrated solar power plant 3.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Protection of alternator and protection of alternator",
+    "SWITCHGEAR AND PROTECTION",
+    "DRAVID SIR",
+    "Protection of alternator and protection of alternator 2.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Protection of transmission line bus bars",
+    "SWITCHGEAR AND PROTECTION",
+    "DRAVID SIR",
+    "Protection of transmission line bus bars 1.txt"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "SOLAR POWER Policies 2021",
+    "Electrical Power Policies",
+    "DRAVID SIR",
+    "SOLAR POWER Policies 2021.txt"
   ]
 ]
