@@ -16,5 +16,20 @@
   ],
   [
     "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/20260531_180323.jpg%20(1)(1).jpeg"
+  ],
+  [
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150159.png"
+  ],
+  [
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150168.png"
+  ],
+  [
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150169.png"
+  ],
+  [
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150173.png"
+  ],
+  [
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150174.png"
   ]
 ]
