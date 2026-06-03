@@ -14,7 +14,7 @@
     "PDFURL"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "lecture 1 induction motor mcq",
     "LIVE CLASS",
     "Dravid Sir",
@@ -28,7 +28,7 @@
     "https://drive.google.com/uc?export=download&id=1E0IYD9kudp3gg5_Om8U8r1RcT9lY-fLL"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "lecture 2 illumination mcq",
     "LIVE CLASS",
     "Dravid Sir",
@@ -42,7 +42,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "DC CIRCUIT MCQ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -56,7 +56,7 @@
     "https://drive.google.com/uc?export=download&id=1EVhDtgULt_ACqkKdcbWR5Bx0PIjnMbLw"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "કેપેસિટર સ્ટાર્ટ ઇન્ડકશન રન સિંગલ ફેસ ઇન્ડકશન મોટર",
     "Single Phase Induction Motor",
     "Dravid Sir",
@@ -70,7 +70,7 @@
     "https://drive.google.com/uc?export=download&id=1EVhDtgULt_ACqkKdcbWR5Bx0PIjnMbLw"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "ઇન્સ્યુલેટિંગ મટીરીયલ ના ક્લાસ યાદ રાખવાની ટ્રિક",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -84,7 +84,7 @@
     "https://drive.google.com/uc?export=download&id=1_2uTEbolPzlmWMTt0MVsfQD8MVrsRBtJ"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "ઓહ્મ નો નિયમ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -98,7 +98,7 @@
     "https://drive.google.com/uc?export=download&id=1CDg36k7BjPPQy9dwFFSdS4_-yeMSDQM-"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "લંબાઇ અને એરિયા ફેરફાર કરવાથી અવરોધ માં ફેરફાર ન દાખલાની ટ્રીક",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -112,7 +112,7 @@
     "https://drive.google.com/uc?export=download&id=1CDg36k7BjPPQy9dwFFSdS4_-yeMSDQM-"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "લંબાઈ વ્યાસ અને ત્રિજ્યા આપેલી હોય ત્યારે અવરોધ માં ફેરફાર",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -126,7 +126,7 @@
     "https://drive.google.com/uc?export=download&id=1Qt0hpqIESVpPz7z-tJbz9dzPjOci7Xz1"
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "વર્ક  પાવર અને એનર્જી ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -140,7 +140,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 1 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -154,7 +154,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 2 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -168,7 +168,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 3 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -182,7 +182,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 4 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -196,7 +196,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 5 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -210,7 +210,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 6 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -224,7 +224,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 7 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -238,7 +238,7 @@
     ""
   ],
   [
-    "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/gtgROcKOowaBEpWzeTCO.jpg",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "LECTURE 8 DC CIRCUIT",
     "DC CIRCUIT",
     "Dravid Sir",
