@@ -18,10 +18,23 @@
     "Dravid Sir",
     "08:00",
     "2026-05-18",
-    "https://play-lh.googleusercontent.com/xovwwCKMjIgalBEbEX4c6ykNbTL5K-2w1tPYU7SaY1IaMG1VQoJVp0nR75yqENF42g=w240-h480-rw",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
     "120",
     "EA VS CLASSES",
     "https://www.youtube.com/live/OAJZsL10rwo?si=l6c7JB-unejwnHw3",
+    "https://drive.google.com/uc?export=download&id=17n5dfN42Isli8S_t64XtTGSBJP54ws0K",
+    "https://drive.google.com/uc?export=download&id=16-HME1wtsS6n2l0ypu9_Y49XV0VZA8f8"
+  ],
+  [
+    "DC CIRCUIT",
+    "LIVE CLASS",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-07",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://www.youtube.com/live/eBO4JlnLev0?si=E4cRdo19-rRxNZLt",
     "https://drive.google.com/uc?export=download&id=17n5dfN42Isli8S_t64XtTGSBJP54ws0K",
     "https://drive.google.com/uc?export=download&id=16-HME1wtsS6n2l0ypu9_Y49XV0VZA8f8"
   ]
