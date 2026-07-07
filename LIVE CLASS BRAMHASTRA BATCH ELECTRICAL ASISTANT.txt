@@ -14,7 +14,7 @@
   ],
   [
     "UGVCL PAPER SOLUTION 2026",
-    "LIVE CLASS",
+    "UGVCL PAPER SOLUTION",
     "Dravid Sir",
     "08:00",
     "2026-05-18",
