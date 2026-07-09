@@ -27,7 +27,7 @@
   ],
   [
     "DC CIRCUIT",
-    "LIVE CLASS",
+    "DC CIRCUIT",
     "Dravid Sir",
     "08:00",
     "2026-07-07",
@@ -37,5 +37,31 @@
     "https://www.youtube.com/live/eBO4JlnLev0?si=E4cRdo19-rRxNZLt",
     "https://drive.google.com/uc?export=download&id=17n5dfN42Isli8S_t64XtTGSBJP54ws0K",
     "https://drive.google.com/uc?export=download&id=16-HME1wtsS6n2l0ypu9_Y49XV0VZA8f8"
+  ],
+  [
+    "Symbol 1",
+    "Electrical Symbols ",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-08",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://www.youtube.com/live/NtrgdCfemvc?si=xW5Lh91AT53MTEb_",
+    "https://drive.google.com/uc?export=download&id=1gHWO3Uj-IZiHqr8JT6MB_MM93FjjiBz1",
+    "https://drive.google.com/uc?export=download&id=1gHWO3Uj-IZiHqr8JT6MB_MM93FjjiBz1"
+  ],
+  [
+    "Resistance Temp Coeffient વાહક અવાહક અને અર્ધ્વહક ",
+    "LIVE CLASS",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-08",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://www.youtube.com/live/r5fFQKLYAbI?si=BdxJVzOjij-51YHk",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ]
 ]
