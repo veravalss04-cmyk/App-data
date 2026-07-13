@@ -53,7 +53,7 @@
   ],
   [
     "Resistance Temp Coeffient વાહક અવાહક અને અર્ધ્વહક ",
-    "LIVE CLASS",
+    "DC CIRCUIT",
     "Dravid Sir",
     "08:00",
     "2026-07-08",
@@ -61,6 +61,45 @@
     "123",
     "EA VS CLASSES",
     "https://www.youtube.com/live/r5fFQKLYAbI?si=BdxJVzOjij-51YHk",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
+  ],
+  [
+    "Ohms law",
+    "LIVE CLASS",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-13",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://www.youtube.com/live/Zo0W4uIz8jo?si=eRzledB5Knu2aFKD",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
+  ],
+  [
+    "resistance effect",
+    "DC CIRCUIT",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-14",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://www.youtube.com/live/Svs8lUDbaUA?si=E4-Jv5ITK5zseDej",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
+    "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
+  ],
+  [
+    "reistance series parallel capacitor series parralel",
+    "DC CIRCUIT",
+    "Dravid Sir",
+    "08:00",
+    "2026-07-15",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "123",
+    "EA VS CLASSES",
+    "https://youtu.be/Vif-ReWZ84E?si=KPPqyJQA74okuXPo",
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ]
