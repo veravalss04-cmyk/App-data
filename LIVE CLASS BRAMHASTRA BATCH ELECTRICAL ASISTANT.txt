@@ -66,7 +66,7 @@
   ],
   [
     "Ohms law",
-    "LIVE CLASS",
+    "DC CIRCUIT",
     "Dravid Sir",
     "08:00",
     "2026-07-13",
@@ -78,8 +78,8 @@
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ],
   [
-    "resistance effect",
-    "DC CIRCUIT",
+    "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા ",
+    "LIVE CLASS",
     "Dravid Sir",
     "08:00",
     "2026-07-14",
