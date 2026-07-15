@@ -78,8 +78,8 @@
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ],
   [
-    "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા ",
-    "LIVE CLASS",
+    "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા 1",
+    "DC CIRCUIT",
     "Dravid Sir",
     "08:00",
     "2026-07-14",
@@ -91,13 +91,13 @@
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ],
   [
-    "reistance series parallel capacitor series parralel",
-    "DC CIRCUIT",
+    "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા 2",
+    "LIVE CLASS",
     "Dravid Sir",
     "08:00",
     "2026-07-15",
     "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-    "123",
+    "134",
     "EA VS CLASSES",
     "https://youtu.be/Vif-ReWZ84E?si=KPPqyJQA74okuXPo",
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF",
