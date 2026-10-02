@@ -14,6 +14,20 @@
     "URL2"
   ],
   [
+    "DGVCL  ઇલેક્ટ્રિક આસિસ્ટન્ટ  સાંભવીત પેપર ",
+    "2026-10-02",
+    "18:00",
+    "2026-10-04",
+    "07:00",
+    "120",
+    "120",
+    "DGVCL%20SABHAVIT%20PAPER%201.json",
+    "UGVCL 2019",
+    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
+    "DRAVID SIR",
+    "UGVCL 2019.txt"
+  ],
+  [
     "GETCO ELECTRICAL ASISTANT PAPER 1",
     "2026-04-02",
     "10:00",
@@ -22,10 +36,10 @@
     "120",
     "120",
     "ugvcl%20model%20test%202.txt",
-    "UGVCL 2019",
+    "PGVCL 2018",
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
-    "UGVCL 2019.txt"
+    "PGVCL 2018.txt"
   ],
   [
     "GETCO ELECTRICAL ASISTANT PAPER 2",
@@ -36,20 +50,6 @@
     "120",
     "120",
     "ugvcl%20model%20test%202.txt",
-    "PGVCL 2018",
-    "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
-    "DRAVID SIR",
-    "PGVCL 2018.txt"
-  ],
-  [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
     "PGVCL 2020",
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
