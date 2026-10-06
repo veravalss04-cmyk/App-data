@@ -14,7 +14,7 @@
     "PDFURL"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "પરમાણુનું બંધારણ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -28,7 +28,7 @@
     "https://drive.google.com/uc?export=download&id=1BZOcuhFNzXUbpfWNhL2lY6hDBu3x2GXf"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "Voltage PD અને કરંટ ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -42,7 +42,7 @@
     "https://drive.google.com/uc?export=download&id=1fkXBKWNtEIYvSgldOegXjXTNNIYy_qfx"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "અવરોધ ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -56,7 +56,7 @@
     ""
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "અવરોધ કલર કોડિંગ ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -70,7 +70,7 @@
     "https://drive.google.com/uc?export=download&id=1gHWO3Uj-IZiHqr8JT6MB_MM93FjjiBz1"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "અવરોધ તાપમાન અચલ ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -84,7 +84,7 @@
     "https://drive.google.com/uc?export=download&id=1IBmyg6lT5xjzXlE8R5e3lbO1oNNleOMF"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "Ohms law",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -98,7 +98,7 @@
     "https://drive.google.com/uc?export=download&id=1WkrmN3hc6JxIi2_SEcGT32JjTmb9euRN"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા ",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -112,7 +112,7 @@
     "https://drive.google.com/uc?export=download&id=1QgvkZyb7q9OoiDjxVKxXmdt0D6nwvBbH"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "અવરોધ લંબાય ક્ષેત્રફલ માં ફેરફાર દાખલા 2",
     "DC CIRCUIT",
     "Dravid Sir",
@@ -126,7 +126,7 @@
     "https://drive.google.com/uc?export=download&id=1Q0TJ0djjEGfa0pol2ECY5VBQ7w6wiuCm"
   ],
   [
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/WhatsApp%20Image%202026-10-06%20at%2011.51.45%20PM.jpeg",
     "મીટર બીલના દાખલા practice",
     "DC CIRCUIT",
     "Dravid Sir",
