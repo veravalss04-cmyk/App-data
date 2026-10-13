@@ -13,19 +13,6 @@
     "WITHPDF"
   ],
   [
-    "PGVCL પેપર 2025 SOLUTIO ",
-    "PDF",
-    "DRAVID SIR",
-    "https://drive.google.com/uc?export=download&id=1TCz9ApOqDLVL_gv-1IoXHaDRvZtYjR57",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "સૂત્રોનું રિવિઝન અને શોર્ટ નોટ્સ",
     "MCQ Practice Workbook",
     "DRAVID SIR",
