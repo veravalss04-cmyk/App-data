@@ -1445,7 +1445,7 @@
   ],
   [
     "SM11",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "METER TESTER  ASISTANT FULL COURSE",
     "",
     "Gujarati",
