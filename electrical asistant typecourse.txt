@@ -77,7 +77,7 @@
   ],
   [
     "SM15",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150168.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_220859.jpg",
     "MGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
@@ -305,7 +305,7 @@
   ],
   [
     "SM14",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150159.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_220859.jpg",
     "PGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
@@ -381,7 +381,7 @@
   ],
   [
     "SM16",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150169.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_220859.jpg",
     "DGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
@@ -457,7 +457,7 @@
   ],
   [
     "SM17",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150173.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_220859.jpg",
     "GETCO ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
@@ -533,7 +533,7 @@
   ],
   [
     "SM18",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150174.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_220859.jpg",
     "UGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
