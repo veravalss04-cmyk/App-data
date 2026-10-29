@@ -153,7 +153,7 @@
   ],
   [
     "MG2",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/1000150168.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "MGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH free books home delivery ",
     "આ કોર્સ માં તમને આકાશ પ્રકાશન ધ્રુવ પ્રકાશન capsule બધા theory અને MCQ ફુલ સિલેબસ કવર કરવા માં આવશે",
     "Gujarati",
@@ -229,7 +229,7 @@
   ],
   [
     "MG1",
-    "https://raw.githubusercontent.com/dccircuit11-byte/dc/refs/heads/main/file_000000009aa0820687d6c125caf877cc.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "MGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - MCQ CRASH COURSE free Bramhstra book home Delivery",
     "",
     "Gujarati",
@@ -609,7 +609,7 @@
   ],
   [
     "SM10",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "DGVCL ELECTRICAL ASISTANT CRASH COURSE",
     "",
     "Gujarati",
@@ -685,7 +685,7 @@
   ],
   [
     "SM89",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "UGVCL ELECTRICAL ASISTANT 15 DAYS COURSE",
     "",
     "Gujarati",
@@ -761,7 +761,7 @@
   ],
   [
     "SM1",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "GETCO ELECTRICAL ASISTANT FULL COURSE",
     "આ GETCO Electrical Assistant (Vidyut Sahayak / Helper) course ખાસ કરીને ગુજરાતના વિદ્યાર્થીઓ માટે તૈયાર કરવામાં આવ્યો છે જેમાં electrical field ની સંપૂર્ણ તૈયારી સરળ ભાષામાં કરાવવામાં આવે છેઆ course માં electrical ના basic થી લઈને advanced concepts સુધી step-by-step સમજાવવામાં આવ્યા છે જેથી beginner થી લઈને advance level સુધીના દરેક વિદ્યાર્થીને ફાયદો થાય વિદ્યાર્થીઓને exam oriented preparation માટે ખાસ ધ્યાનમાં રાખીને theory MCQ practice questions આપવામાં આવ્યા છે. ",
     "Gujarati",
@@ -837,7 +837,7 @@
   ],
   [
     "SM2",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "GETCO ELECTRICAL ASISTANT CRASH COURSE",
     "",
     "Gujarati",
@@ -913,7 +913,7 @@
   ],
   [
     "SM3",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "PGVCL ELECTRICAL ASISTANT FULL COURSE",
     "",
     "Gujarati",
@@ -989,7 +989,7 @@
   ],
   [
     "SM4",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "PGVCL ELECTRICAL ASISTANT CRASHCOURSE",
     "",
     "Gujarati",
@@ -1065,7 +1065,7 @@
   ],
   [
     "SM5",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "UGVCL ELECTRICAL ASISTANT FULL COURSE",
     "",
     "Gujarati",
@@ -1141,7 +1141,7 @@
   ],
   [
     "SM6",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "UGVCL ELECTRICAL ASISTANT CRASH COURSE",
     "",
     "Gujarati",
@@ -1217,7 +1217,7 @@
   ],
   [
     "SM7",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "MGVCL ELECTRICAL ASISTANT FULL COURSE",
     "",
     "Gujarati",
@@ -1293,7 +1293,7 @@
   ],
   [
     "SM8",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "MGVCL ELECTRICAL ASISTANT CRASH COURSE",
     "",
     "Gujarati",
@@ -1369,7 +1369,7 @@
   ],
   [
     "SM9",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "DGVCL ELECTRICAL ASISTANT FULL COURSE",
     "",
     "Gujarati",
@@ -1521,7 +1521,7 @@
   ],
   [
     "SM12",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "METER TESTER  ELECTRICAL ASISTANT CRASHCOURSE",
     "",
     "Gujarati",
@@ -1597,7 +1597,7 @@
   ],
   [
     "SM13",
-    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "GSSSB WIREMAN WARD-3  FULL COURSE",
     "",
     "Gujarati",
