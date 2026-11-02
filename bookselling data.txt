@@ -103,7 +103,7 @@
     "ઇલેક્ટ્રિક આસિસ્ટન્ટ Quik Rivision Book -Paper Solution- Iti Supervisor Instructor ",
     "Paper Solution Quik Rivision Summary સરળતા થી ઇલેક્ટ્રીક આસિસ્ટન્ટ iti supervisor instructor ni તૈયારી માટે ઉપયોગી",
     "Dravid Parmar Sir",
-    "5",
+    "600",
     "850",
     "30",
     "1200",
