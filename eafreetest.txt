@@ -14,14 +14,14 @@
     "URL2"
   ],
   [
-    "MGVCL  ઇલેક્ટ્રિક આસિસ્ટન્ટ  સાંભવીત પેપર 2",
-    "2026-09-28",
+    "MGVCL  ઇલેક્ટ્રિક આસિસ્ટન્ટ  સાંભવીત પેપર 3",
+    "2026-11-05",
     "20:00",
-    "2026-11-27",
+    "2026-11-13",
     "22:00",
     "100",
     "120",
-    "https://raw.githubusercontent.com/dccircuit11-byte/ffff/refs/heads/main/DGVCL%20SABHAVIT%20PAPER%201.json",
+    "https://raw.githubusercontent.com/dccircuit11-byte/ffff/refs/heads/main/PGVCL%202023.txt",
     "UGVCL 2019",
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
