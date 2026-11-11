@@ -73,7 +73,8 @@
     "DISCOUNT",
     "IMPPDFURL",
     "LIVECLASSURL",
-    "lecture url"
+    "lecture url",
+    "group link"
   ],
   [
     "SM3",
@@ -149,7 +150,8 @@
     "40%",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE IMP PDF SECTION.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE LIVE CLASSES PAID.txt",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ADITIONAL ASISTANT SUBJECT COURSE.txt"
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ADITIONAL ASISTANT SUBJECT COURSE.txt",
+    ""
   ],
   [
     "SM1",
@@ -177,6 +179,7 @@
     "PRATAB SIR",
     "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/DqN3j2Wr7Herg30pe7O1.jpg",
     "GATE RANKER EXPERT ELECTRONICS",
+    "",
     "",
     "",
     "",
@@ -253,6 +256,7 @@
     "PRATAB SIR",
     "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/DqN3j2Wr7Herg30pe7O1.jpg",
     "GATE RANKER EXPERT ELECTRONICS ",
+    "",
     "",
     "",
     "",
