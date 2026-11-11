@@ -14,7 +14,7 @@
     "BOOKSELLID",
     "BOOKSELLNUMBER",
     "ADS PHOTO",
-    "ADS VIDEO"
+    "test series course"
   ],
   [
     "ELECTRICAL ASISTANT",
@@ -31,10 +31,10 @@
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
     "1",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL ASISTANT STUDENTS.txt",
-    "https://drive.google.com/uc?export=download&id=1zm-t9Xi4Y_YMB-IMvDlci-r13RloGBOy"
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/Electrical%20asistant%20test%20series%20courses.txt"
   ],
   [
-    "ELECTRICAL ENGINEERING EXAM",
+    "ELECTRICAL AE/JE GUJARAT EXAM",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/Type Of courses.txt",
     "1oyQI5tT3-NfNIgrl_uM_5F_qf2_d3OzIN7kHlhILX_Y",
     "2",
