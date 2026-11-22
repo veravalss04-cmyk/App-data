@@ -21,23 +21,23 @@
     "10:00",
     "120",
     "120",
-    "ugvcl%20model%20test%202.txt",
+    "https://github.com/dccircuit11-byte/ffff/blob/main/MGVCL_Vidyut_Sahayak_Paper_4.json",
     "STABILITY NUMERICALS",
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
     "STABILITY NUMERICALS 1.json"
   ],
   [
-    "GPSSB TEST 1",
-    "2026-04-22",
-    "11:00",
-    "2026-05-04",
-    "11:00",
-    "120",
-    "120",
-    "ugvcl%20model%20test%202.txt",
-    "MGVCL JE 2026 PAPER 1",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "MGVCL JE 2026 PAPER 1",
+    "MGVCL JE PAPER",
     "DRAVID SIR",
     "MGVCL_Vidyut_Sahayak_Paper_4.json"
   ],
@@ -264,19 +264,5 @@
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
     "UGVCL 2019.txt"
-  ],
-  [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "MGVCL JE 2026 PAPER 1",
-    "",
-    "DRAVID SIR",
-    "MGVCL_Vidyut_Sahayak_Paper_4.json"
   ]
 ]
