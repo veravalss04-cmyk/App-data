@@ -22,10 +22,10 @@
     "120",
     "120",
     "https://github.com/dccircuit11-byte/ffff/blob/main/MGVCL_Vidyut_Sahayak_Paper_4.json",
-    "",
-    "",
-    "",
-    ""
+    "stability numericals",
+    "MGVCL JE  PAPER",
+    "DRAVID SIR",
+    "STABILITY NUMERICALS 1.json"
   ],
   [
     "",
