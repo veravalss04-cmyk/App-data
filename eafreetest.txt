@@ -21,7 +21,7 @@
     "22:00",
     "100",
     "120",
-    "https://raw.githubusercontent.com/dccircuit11-byte/ffff/refs/heads/main/PGVCL%202023.txt",
+    "https://raw.githubusercontent.com/dccircuit11-byte/ffff/refs/heads/main/MGVCL%20EA%20SABHAVIT%20PAPER%20%204.json",
     "UGVCL 2019",
     "પાછલા વરસના પેપર પ્રેક્ટિસ સેટ",
     "DRAVID SIR",
