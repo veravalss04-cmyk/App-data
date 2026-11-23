@@ -47,7 +47,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/refs/heads/main/bookselling%20data.txt",
     "1vs2xod4auVaYdwfdSoLe_kkGCuIhO2ARX7h8fbwQMc8",
     "1",
-    "",
-    ""
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL ASISTANT STUDENTS.txt",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AE JE TEST SERIES COURSES.txt"
   ]
 ]
