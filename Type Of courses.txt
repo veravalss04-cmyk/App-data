@@ -74,8 +74,7 @@
     "IMPPDFURL",
     "LIVECLASSURL",
     "lecture url",
-    "group link",
-    "PAPER"
+    "group link"
   ],
   [
     "SM4",
@@ -152,7 +151,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/MGVCL JE IMP PDF.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/MGVCL JE LIVE CLASS URL.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/MGVCL JE SUBJECT.txt",
-    "",
     ""
   ],
   [
@@ -230,7 +228,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE IMP PDF SECTION.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/AAE LIVE CLASSES PAID.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ADITIONAL ASISTANT SUBJECT COURSE.txt",
-    "",
     ""
   ],
   [
@@ -308,7 +305,6 @@
     "",
     "",
     "",
-    "",
     ""
   ],
   [
@@ -337,7 +333,6 @@
     "PRATAB SIR",
     "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/eyt2a5yAbiz8To9M8Ef9/pub/DqN3j2Wr7Herg30pe7O1.jpg",
     "GATE RANKER EXPERT ELECTRONICS ",
-    "",
     "",
     "",
     "",
