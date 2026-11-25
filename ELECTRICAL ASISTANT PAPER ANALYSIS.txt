@@ -1,1 +1,26 @@
-[]
+[
+  [
+    "PAPER ANALYSIS",
+    "URL API "
+  ],
+  [
+    "MGVCL ELECTRICAL ASISTANT ",
+    "XYZ"
+  ],
+  [
+    "PGVCL ELECTRICAL ASISTANT ",
+    "XYZ"
+  ],
+  [
+    "UGVCL ELECTRICAL ASISTANT ",
+    "XYZ"
+  ],
+  [
+    "DGVCL ELECTRICAL ASISTANT ",
+    "XYZ"
+  ],
+  [
+    "GETCO ELECTRICAL ASISTANT",
+    "XYZ"
+  ]
+]
