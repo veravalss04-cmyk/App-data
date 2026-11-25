@@ -74,8 +74,7 @@
     "IMPPDFURL",
     "LIVECLASSURL",
     "lecture url",
-    "group link",
-    "PAPER"
+    "group link"
   ],
   [
     "SM15",
@@ -152,8 +151,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/Dravid38/mcq-tet/refs/heads/main/bramhastraliveclass.json",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL%20ASISTANT%20PAPER%20ANALYSIS.txt"
+    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF"
   ],
   [
     "MG2",
@@ -230,7 +228,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/LIVE CLASS BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "",
     ""
   ],
   [
@@ -308,7 +305,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/Mg mcq course subject.txt",
-    "",
     ""
   ],
   [
@@ -386,8 +382,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/Dravid38/mcq-tet/refs/heads/main/bramhastraliveclass.json",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL%20ASISTANT%20PAPER%20ANALYSIS.txt"
+    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF"
   ],
   [
     "SM16",
@@ -464,8 +459,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/Dravid38/mcq-tet/refs/heads/main/bramhastraliveclass.json",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL%20ASISTANT%20PAPER%20ANALYSIS.txt"
+    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF"
   ],
   [
     "SM17",
@@ -542,8 +536,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/Dravid38/mcq-tet/refs/heads/main/bramhastraliveclass.json",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL%20ASISTANT%20PAPER%20ANALYSIS.txt"
+    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF"
   ],
   [
     "SM18",
@@ -620,8 +613,7 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/IMP PDF BRAMHASTRA BATCH.txt",
     "https://raw.githubusercontent.com/Dravid38/mcq-tet/refs/heads/main/bramhastraliveclass.json",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/SUBJECT BRAMHASTRA BATCH ELECTRICAL ASISTANT.txt",
-    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF",
-    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/ELECTRICAL%20ASISTANT%20PAPER%20ANALYSIS.txt"
+    "https://chat.whatsapp.com/Lp0nc2vbZp4LN73s2Z7ctF"
   ],
   [
     "SM10",
@@ -698,7 +690,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -776,7 +767,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -854,7 +844,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -932,7 +921,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1010,7 +998,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1088,7 +1075,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1166,7 +1152,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1244,7 +1229,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1322,7 +1306,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1400,7 +1383,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1478,7 +1460,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1556,7 +1537,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1634,7 +1614,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ],
   [
@@ -1712,7 +1691,6 @@
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/pdf sectiondata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/liveclassdata.txt",
     "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/subjectlist.txt",
-    "",
     ""
   ]
 ]
