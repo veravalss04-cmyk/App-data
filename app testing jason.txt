@@ -1,1 +1,41 @@
-[]
+[
+  [
+    "COURSEINDEX",
+    "COURSEIMAGE",
+    "LANGUAGE",
+    "DATEOFCOURSE",
+    "NAMEOFEDUCATORS",
+    "PRICE",
+    "OLDPRICE",
+    "COUNSLLERNUMBER",
+    "VALIDITYCOURSE",
+    "DISCOUNT",
+    "lecture url"
+  ],
+  [
+    "SM15",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
+    "",
+    "",
+    "Dravid Sir",
+    "7500/-",
+    "10000/-",
+    "6353141147",
+    "3 Year",
+    "30 % ",
+    ""
+  ],
+  [
+    "MG2",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
+    "",
+    "",
+    "Dravid Sir",
+    "2499/-",
+    "10000/-",
+    "6353141147",
+    "",
+    "",
+    ""
+  ]
+]
