@@ -1,44 +1,47 @@
 [
   [
-    "COURSEINDEX",
-    "COURSETITLE",
-    "COURSEIMAGE",
-    "LANGUAGE",
-    "DATEOFCOURSE",
-    "NAMEOFEDUCATORS",
-    "PRICE",
-    "OLDPRICE",
-    "COUNSLLERNUMBER",
-    "VALIDITYCOURSE",
-    "DISCOUNT",
-    "lecture url"
+    "SHOP ID",
+    "SHOP NAME ",
+    "SHOP IMAGE ",
+    "SHOP CATEOGIRIES",
+    "SHOP ADS IMAGE OFFER JSON URL",
+    "ALL RANK SHOP TOP RANKING ",
+    "CATEGORITY TOP RANKING"
   ],
   [
-    "SM15",
-    "MGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH ",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "gujarati",
-    "2001-06-28T18:30:00.000Z",
-    "Dravid Sir",
-    "7500/-",
-    "10000/-",
-    "6353141147",
-    "3 Year",
-    "30 % ",
-    "xyz"
+    "23565",
+    "DARU VALA",
+    "IMAGE URL HASE",
+    "DARU",
+    "URL JSON",
+    "1",
+    "1"
   ],
   [
-    "MG2",
-    "MGVCL ઇલેક્ટ્રિક આસિસ્ટન્ટ 2027 - બધો સિલેબસ કવર બ્રહ્મહસ્ત્ર ફુલ લાયવ BATCH free books home delivery ",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "english",
-    "2001-06-28T18:30:00.000Z",
-    "Dravid Sir",
-    "2499/-",
-    "10000/-",
-    "6353141147",
-    "3 Year",
-    "30 % ",
-    "xyz"
+    "23566",
+    "GEBI PRIVISION STORE",
+    "IMAGE URL HASE",
+    "PRIVISION STORE",
+    "URL JSON",
+    "",
+    "1"
+  ],
+  [
+    "23565",
+    "CHAI VALA",
+    "IMAGE URL HASE",
+    "DARU",
+    "URL JSON",
+    "",
+    ""
+  ],
+  [
+    "23556",
+    "FEGI PROVISSION STORE",
+    "IMAGE URL HASE",
+    "PRIVISION STORE",
+    "URL JSON",
+    "",
+    ""
   ]
 ]
