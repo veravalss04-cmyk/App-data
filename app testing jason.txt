@@ -1,18 +1,21 @@
 [
   [
     "SHOP ITEM CATEGORIES",
+    "ITEM NAME ",
     "SHOP ITEM IMAGE URL",
     "ITEM PRICE ",
     "ITEM OLD PRICE"
   ],
   [
     "FOOTWARE",
+    "CHAPAL",
     "https://contents.mediadecathlon.com/p2819190/4c689ea7679c2eaa03c610b3e2374416/p2819190.jpg",
     "600",
     "700"
   ],
   [
     "SHOES",
+    "SHOES BUUTOM VIEW",
     "https://contents.mediadecathlon.com/p2819190/4c689ea7679c2eaa03c610b3e2374416/p2819190.jpg",
     "600",
     "700"
