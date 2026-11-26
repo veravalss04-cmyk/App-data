@@ -1,47 +1,20 @@
 [
   [
-    "SHOP ID",
-    "SHOP NAME ",
-    "SHOP IMAGE ",
-    "SHOP CATEOGIRIES",
-    "SHOP ADS IMAGE OFFER JSON URL",
-    "ALL RANK SHOP TOP RANKING ",
-    "CATEGORITY TOP RANKING"
+    "SHOP ITEM CATEGORIES",
+    "SHOP ITEM IMAGE URL",
+    "ITEM PRICE ",
+    "ITEM OLD PRICE"
   ],
   [
-    "23565",
-    "DARU VALA",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "DARU",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "1",
-    "1"
+    "FOOTWARE",
+    "https://contents.mediadecathlon.com/p2819190/4c689ea7679c2eaa03c610b3e2374416/p2819190.jpg",
+    "600",
+    "700"
   ],
   [
-    "23566",
-    "GEBI PRIVISION STORE",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "PRIVISION STORE",
-    "URL JSON",
-    "",
-    "1"
-  ],
-  [
-    "23565",
-    "CHAI VALA",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "DARU",
-    "URL JSON",
-    "",
-    ""
-  ],
-  [
-    "23556",
-    "FEGI PROVISSION STORE",
-    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
-    "PRIVISION STORE",
-    "URL JSON",
-    "",
-    ""
+    "SHOES",
+    "https://contents.mediadecathlon.com/p2819190/4c689ea7679c2eaa03c610b3e2374416/p2819190.jpg",
+    "600",
+    "700"
   ]
 ]
