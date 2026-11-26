@@ -11,16 +11,16 @@
   [
     "23565",
     "DARU VALA",
-    "IMAGE URL HASE",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "DARU",
-    "URL JSON",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg,https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "1",
     "1"
   ],
   [
     "23566",
     "GEBI PRIVISION STORE",
-    "IMAGE URL HASE",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "PRIVISION STORE",
     "URL JSON",
     "",
@@ -29,7 +29,7 @@
   [
     "23565",
     "CHAI VALA",
-    "IMAGE URL HASE",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "DARU",
     "URL JSON",
     "",
@@ -38,7 +38,7 @@
   [
     "23556",
     "FEGI PROVISSION STORE",
-    "IMAGE URL HASE",
+    "https://ik.imagekit.io/du6kp7sfi/20261029_214838.jpg",
     "PRIVISION STORE",
     "URL JSON",
     "",
