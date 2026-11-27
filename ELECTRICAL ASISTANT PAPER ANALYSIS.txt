@@ -1,26 +1,18 @@
 [
   [
     "PAPER ANALYSIS",
-    "URL API "
+    "API URL"
   ],
   [
-    "MGVCL ELECTRICAL ASISTANT ",
-    "XYZ"
+    "MGVCL ELECTRICAL ASISTANT",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/MVL PAPER SOLUTION.txt"
   ],
   [
-    "PGVCL ELECTRICAL ASISTANT ",
-    "XYZ"
-  ],
-  [
-    "UGVCL ELECTRICAL ASISTANT ",
-    "XYZ"
-  ],
-  [
-    "DGVCL ELECTRICAL ASISTANT ",
-    "XYZ"
+    "PGVCL ELECTRICAL ASISTANT",
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/PVL PAPER SOLUTION.txt"
   ],
   [
     "GETCO ELECTRICAL ASISTANT",
-    "XYZ"
+    "https://raw.githubusercontent.com/veravalss04-cmyk/App-data/main/GNCO PAPER SOLUTION.txt"
   ]
 ]
