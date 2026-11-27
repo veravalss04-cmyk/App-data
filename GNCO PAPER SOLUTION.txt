@@ -1,1 +1,15 @@
-[]
+[
+  [
+    "SUBJECTNAME",
+    "SUBTITLEOFSUBJECT",
+    "FACULTY",
+    "STATUS",
+    "SHEETNUMBER",
+    "LIVETESTSCRPT",
+    "LIVETESTID",
+    "LIVETESTNUMBER",
+    "LECTUREURL",
+    "WITHOUTPDF",
+    "WITHPDF"
+  ]
+]
