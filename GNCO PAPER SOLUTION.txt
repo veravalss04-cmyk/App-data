@@ -11,5 +11,44 @@
     "LECTUREURL",
     "WITHOUTPDF",
     "WITHPDF"
+  ],
+  [
+    "GETCO પેપર એનાલિસિસ – પ્રશ્નો કેવા પૂછવામાં આવે છે તે જાણવા ફરજિયાત પહેલાં આ જુઓ.",
+    "GETCO ELECTRICAL ASISTANT",
+    "ફરજિયાત આ એનાલિસિસ જુઓ",
+    "https://ik.imagekit.io/ah77tapsy/GETCO_Paper_Analysis_Gujarati_page-0001.jpg",
+    "2026-11-27",
+    "07:10",
+    "",
+    "https://drive.google.com/uc?export=download&id=1qcw9J-Asi3RfmjxAI9QQeKI9RhRqq-88",
+    "",
+    "",
+    ""
+  ],
+  [
+    "MGVCL  2013",
+    "પેપર સોલ્યુશન PDF",
+    "DRAVID SIR",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "2026-11-27",
+    "07:10",
+    "",
+    "https://drive.google.com/uc?export=download&id=1oIVJME5efLvZhh5ZPEF50lbhY7LkHJcw",
+    "",
+    "",
+    ""
+  ],
+  [
+    "MGVCL  2015",
+    "પેપર સોલ્યુશન PDF",
+    "DRAVID SIR",
+    "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+    "2026-11-28",
+    "07:11",
+    "",
+    "https://drive.google.com/uc?export=download&id=1s8xi2ejE8ShXXS8CtRcv9uQrvBS0MIGk",
+    "",
+    "",
+    ""
   ]
 ]
