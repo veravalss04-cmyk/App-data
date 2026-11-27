@@ -13,8 +13,21 @@
     "WITHPDF"
   ],
   [
+    "MGVCL ઇલેક્ટ્રિકલ આસિસ્ટન્ટ પરીક્ષાના પેપર સોલ્યુશન બુક PDF",
+    "BOOK",
+    "DRAVID SIR",
+    "https://drive.google.com/uc?export=download&id=1Rxt5SuVIgZ4eB5vNE1MIE6b6mce7UQqD",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
     "સૂત્રોનું રિવિઝન અને શોર્ટ નોટ્સ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1Wwkg39ArtDzBTQ9gg1-GoFxMQUIX8ADI",
     "",
@@ -27,7 +40,7 @@
   ],
   [
     "1. વાયર જોઇન્ટ અને સોલ્ડરિંગ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1q0cJ5_iFW8TSVkJ9eXF7pRH4mft3XHA2",
     "",
@@ -40,7 +53,7 @@
   ],
   [
     "2.બેઝિક ડી.સી. સર્કિટ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1ITSYlYWWm-Zog0fIE_2qgCmm_iaOrulS",
     "",
@@ -53,7 +66,7 @@
   ],
   [
     "3.બેઝિક એ.સી. સર્કિટ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=17nFQw4r3KWysIxRrA6Y8fhnmP55l3kPL",
     "",
@@ -66,7 +79,7 @@
   ],
   [
     "4.બેઝિક મેગ્નેટિક સર્કિટ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1BnkdVxT3yBkrY5xegEibSQDnHeyycLf5",
     "",
@@ -79,7 +92,7 @@
   ],
   [
     "5.ટ્રાન્સફોર્મર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1ZqDPdcoNsbWSJ1OXNXBFjQwYX1XWCLQ-",
     "",
@@ -92,7 +105,7 @@
   ],
   [
     "6.ડી.સી. જનરેટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1H3jPrBFyORVhNFhLQqruJSNu5RbkHbbw",
     "",
@@ -105,7 +118,7 @@
   ],
   [
     "7.ડી.સી. મોટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1THqpmcN-R0Q5WTs-EV3xQftcOXBOUmIn",
     "",
@@ -118,7 +131,7 @@
   ],
   [
     "8..અલ્ટરનેટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1a4LVVFUuS4kLFfjrrg3ZoUDvU7jeDNKN",
     "",
@@ -131,7 +144,7 @@
   ],
   [
     "9.સિંક્રોનસ મોટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1tfdIN6VtJ-W-wpBo7o_ltFtd_1r3XbRT",
     "",
@@ -144,7 +157,7 @@
   ],
   [
     "10.એ.સી. વાઇન્ડિંગ્સ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1ZR-_MsAr3sZNgpxwwsM_aNRCRrbA-xfW",
     "",
@@ -157,7 +170,7 @@
   ],
   [
     "11.થ્રી ફેઝ ઇન્ડક્શન મોટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1zVzcCrgftgL3mBdx0pin9FpGU79zRGLg",
     "",
@@ -170,7 +183,7 @@
   ],
   [
     "12.સિંગલ ફેઝ ઇન્ડક્શન મોટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1jBKZ24v80xBTPG0Z89FxA6FahAnpGZUS",
     "",
@@ -183,7 +196,7 @@
   ],
   [
     "13.ટ્રાન્સમિશન અને ડિસ્ટ્રિબ્યુશન",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1F-QkDXSJhlKfkIQNYe5n5YlsAJ_0ocFS",
     "",
@@ -196,7 +209,7 @@
   ],
   [
     "14.સર્કિટ બ્રેકર અને રિલે",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1og4Eg1iwnnZnHxHHPdPvsODr_BCH83GB",
     "",
@@ -209,7 +222,7 @@
   ],
   [
     "15.કંટ્રોલ પેનલ અને વાયરિંગ (",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=19fDPLAMFkfpBYUHpPb6B9Gx3FcHmxYMN",
     "",
@@ -222,7 +235,7 @@
   ],
   [
     "16.સ્વિચ, સોકેટ અને ફ્યુઝ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=194KbjvlArTcb4O68xz5-GSLIKJnPOUhQ",
     "",
@@ -235,7 +248,7 @@
   ],
   [
     "17.વાયરિંગ એસેસરીઝને લગતા ફોટા આધારિત પ્રશ્નો",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1g1IG819e3VtV3tjfX-yF3IBC0Pv87EC1",
     "",
@@ -248,7 +261,7 @@
   ],
   [
     "18.અર્થિંગ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1_V-KoeQVhiKaiVBzosf6lqleTuJcjA4y",
     "",
@@ -261,7 +274,7 @@
   ],
   [
     "19.અર્થ રેઝિસ્ટન્સ અને મેગર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1vJ7C4LrvVYIWmnRLOtWHds-9PkwPTI0m",
     "",
@@ -274,7 +287,7 @@
   ],
   [
     "20.પ્રકાશ વ્યવસ્થા (Illumination)",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1Mpk1gkmuBYURJS2TQ5UBue2Gj1yJjUrm",
     "",
@@ -287,7 +300,7 @@
   ],
   [
     "21.સેમિકન્ડક્ટરના મૂળભૂત સિદ્ધાંતો",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1fE5XaaxTBK4DOW5jlb9G7dCU_UZt7za1",
     "",
@@ -300,7 +313,7 @@
   ],
   [
     "22.પી.એન. જંક્શન ડાયોડ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1M7Xo-QUGgsQwzlEdYgpAupsxJlYcg4pu",
     "",
@@ -313,7 +326,7 @@
   ],
   [
     "23.ડિજિટલ ઇલેક્ટ્રોનિક્સ અને લોજિક ગેટ્સ",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=141qsE6ZmRxPTrLQARyPtw27HmNaTpZVX",
     "",
@@ -326,7 +339,7 @@
   ],
   [
     "24.કમ્પ્યુટર",
-    "MCQ Practice Workbook",
+    "BOOK",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=18Gdd_Ytlf81ZXuHxQHUNk7WszuJnXvdZ",
     "",
