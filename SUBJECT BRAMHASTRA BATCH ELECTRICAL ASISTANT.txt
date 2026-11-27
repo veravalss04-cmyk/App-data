@@ -310,44 +310,5 @@
     "",
     "",
     ""
-  ],
-  [
-    "PGVCL PAPER SOLUTION",
-    "ELECTRICAL ASISTANT BRAMHASTRA BATCH 2047",
-    "Dravid Sir",
-    "schedule",
-    "27",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "MGVCL PAPER SOLUTION",
-    "ELECTRICAL ASISTANT BRAMHASTRA BATCH 2047",
-    "Dravid Sir",
-    "schedule",
-    "28",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "GETCO PAPER SOLUTION",
-    "ELECTRICAL ASISTANT BRAMHASTRA BATCH 2047",
-    "Dravid Sir",
-    "schedule",
-    "29",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
   ]
 ]
