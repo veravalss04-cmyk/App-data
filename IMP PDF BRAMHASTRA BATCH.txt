@@ -40,7 +40,7 @@
   ],
   [
     "1. વાયર જોઇન્ટ અને સોલ્ડરિંગ",
-    "BOOK",
+    "GHDCGDG",
     "DRAVID SIR",
     "https://drive.google.com/uc?export=download&id=1q0cJ5_iFW8TSVkJ9eXF7pRH4mft3XHA2",
     "",
